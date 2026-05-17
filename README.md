@@ -1,16 +1,31 @@
-## Hi there 👋
+# João Victor Batista Costa
 
-<!--
-**JoaoVBCosta/JoaoVBCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at INATEL focused on Hardware, Embedded Systems and Software Development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Computer Engineering student at INATEL
+* Monitor of Digital Electronics 1 and 2
+* Interested in Hardware, Embedded Systems and Artificial Intelligence
+* Experience with C++, Arduino and Electronics
+
+## Technologies
+
+* C++
+* Arduino
+* Hardware
+* Embedded Systems
+* Digital Electronics
+* Artificial Intelligence
+
+## Current Goals
+
+* Improve software development skills
+* Develop practical technology projects
+* Gain professional experience in the technology field
+
+## Featured Projects
+
+* QR Code Application (Python/Kivy)
+* Digital Electronics Projects
+* State Machines and VHDL Projects
